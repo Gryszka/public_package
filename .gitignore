@@ -1,0 +1,5 @@
+build/
+dist/
+my_package.egg-info/
+bdist.win-amd64/
+notes.md
