@@ -12,5 +12,5 @@ So meanwhile there is only CHAOS , I will create the cleaned version when it's r
 You can install the package using pip:
 
 ```bash
-pip install my_package
+pip install gryszkapackage
 ```
